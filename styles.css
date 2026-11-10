@@ -1,0 +1,10 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+@import "bootstrap-icons/font/bootstrap-icons.css";
+@import "overlayscrollbars/styles/overlayscrollbars.css";
+@import "admin-lte/dist/css/adminlte.min.css";
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f4f6f9;
+}
